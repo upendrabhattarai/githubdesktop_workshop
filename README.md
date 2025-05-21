@@ -1,5 +1,6 @@
 # githubdesktop_workshop
- My first github repository using GitHub Desktop!
+My first github repository using GitHub Desktop!
+Made with materials devleoped in part by the HBC training team
 
 ## Overview
 Our code will demonstrate the different code snippets that have been used for programming
