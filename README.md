@@ -3,6 +3,8 @@ My first github repository using GitHub Desktop!
 Made with materials devleoped in part by the HBC training team
 
 This line of code was introduced in the lesson on branches!
+
+This line was introduced on my remote branch!
 ## Overview
 Our code will demonstrate the different code snippets that have been used for programming
 classes. We will have this written in both R and Python. 
