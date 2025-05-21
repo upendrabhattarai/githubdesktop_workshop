@@ -39,9 +39,6 @@ est.pi <- function(n){
   return(pi.est)
 }
 
-# Square function
-# adapted from https://hbctraining.github.io/Intro-to-R/lessons/03_introR-functions-and-arguments.html#user-defined-functions
-# and https://www.r-bloggers.com/how-to-write-and-debug-an-r-function/
 
 # Square function
 square_it <- function(x){
@@ -49,9 +46,6 @@ square_it <- function(x){
   return(sq)
 }
 
-
-# Anscombe's quartet
-# Examples from https://www.r-bloggers.com/using-and-abusing-data-visualization-anscombes-quartet-and-cheating-bonferroni/
 
 # Anscombe's quartet
 anscombes_quartet <- {
