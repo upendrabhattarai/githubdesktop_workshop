@@ -3,6 +3,9 @@ My first github repository using GitHub Desktop!
 Made with materials devleoped in part by the HBC training team
 
 A hands-on workshop to demonstrate using GitHub Desktop as a GUI client to the Git version control system
+
+This line of code was introduced in the lesson on branches!
+
 ## Overview
 Our code will demonstrate the different code snippets that have been used for programming
 classes. We will have this written in both R and Python. 
