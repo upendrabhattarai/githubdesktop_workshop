@@ -1,10 +1,6 @@
 # An excercise in R
 
 
-# Print Hello World
-myString <- "Hello, World!"
-
-print (myString)
 
 
 # Monte Carlo Pi
@@ -39,11 +35,6 @@ est.pi <- function(n){
 
 
 
-# Square function
-square_it <- function(x){
-  sq <- x*x
-  return(sq)
-}
 
 
 
