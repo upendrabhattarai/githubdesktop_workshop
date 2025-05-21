@@ -1,6 +1,11 @@
 # An excercise in R
 
 
+# Print Hello World
+myString <- "Hello, World!"
+
+print (myString)
+
 
 # Monte Carlo Pi
 montecarloPi <- function(trials) {
@@ -33,8 +38,21 @@ est.pi <- function(n){
 }
 
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> parent of 4f012b6 (removing hello world and square functions)
+# Square function
+square_it <- function(x){
+  sq <- x*x
+  return(sq)
+}
 
-
+<<<<<<< HEAD
+>>>>>>> parent of 4f012b6 (removing hello world and square functions)
+=======
+>>>>>>> parent of 4f012b6 (removing hello world and square functions)
 
 #Anscombe's quartet
 library(Tmisc)
